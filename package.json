@@ -1,0 +1,23 @@
+{
+  "name": "cordova-root",
+  "version": "0.0.1",
+  "description": "Returns the cordova root folder path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adonespitogo/cordova-root.git"
+  },
+  "keywords": [
+    "cordova",
+    "root",
+    "path"
+  ],
+  "author": "Adones Pitogo",
+  "license": "MIT",
+  "dependencies": {
+    "cordova-lib": "^5.0.0"
+  }
+}
